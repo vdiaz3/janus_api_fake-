@@ -1,0 +1,14 @@
+[[
+    {
+    id:1,
+        "usuario_existe": "si",
+        "nombre_usuario": "Vladimir Diaz3",
+        "id_usuario": "123131133"
+    },
+    {
+    id:22,
+        "usuario_existe": "si",
+        "nombre_usuario": "Vladimir Diaz2",
+        "id_usuario": "12313113"
+    },
+]]
